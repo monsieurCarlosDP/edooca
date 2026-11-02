@@ -1,0 +1,4 @@
+# Variables de entorno: ignora cualquier .env en cualquier carpeta
+**/.env
+**/.env.*
+**/*.env
